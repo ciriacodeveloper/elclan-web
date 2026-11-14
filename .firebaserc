@@ -1,0 +1,6 @@
+{
+  "projects": { "default": "ciriaco-web" },
+  "targets": {
+    "ciriaco-web": { "hosting": { "elclan": ["elclan-ciriaco"] } }
+  }
+}
